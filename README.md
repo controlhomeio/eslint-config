@@ -6,7 +6,7 @@ Personal ESLint config
 ### Installation
 
 ```sh
-npm i @schoero/eslint-config eslint eslint-plugin-unused-imports @typescript-eslint/eslint-plugin --save-dev
+npm i @controlhome/eslint-config eslint eslint-plugin-unused-imports @typescript-eslint/eslint-plugin --save-dev
 ```
 
 <br/>
@@ -17,6 +17,6 @@ Create an .eslintrc.json with the following content:
 
 ```js
 {
-  "extends": "@schoero"
+  "extends": "@controlhome"
 }
 ```
