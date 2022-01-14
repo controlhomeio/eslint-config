@@ -1,5 +1,5 @@
 {
-  "name": "@schoero/eslint-config",
+  "name": "@controlhome/eslint-config",
   "version": "1.2.0",
   "description": "Personal ESLint config",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schoero/eslint-config.git"
+    "url": "git+https://github.com/controlhomeio/eslint-config.git"
   },
   "author": "Roger Schönbächler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/schoero/eslint-config/issues"
+    "url": "https://github.com/controlhomeio/eslint-config/issues"
   },
-  "homepage": "https://github.com/schoero/eslint-config#readme",
+  "homepage": "https://github.com/controlhomeio/eslint-config#readme",
   "peerDependencies": {
     "eslint": ">= 8",
     "eslint-plugin-unused-imports": "^2.0.0",
