@@ -1,6 +1,6 @@
 {
   "name": "@controlhome/eslint-config",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "Personal ESLint config",
   "main": "index.js",
   "scripts": {
